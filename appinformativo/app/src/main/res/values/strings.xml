@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Informativo</string>
+    <string name="sobre">   José Maria nasceu em 12 de novembro de 1960 na cidade de São José Dos Claros - MA. Foi criado por seus pais biológicos junto com seus 12 irmãos e 4 irmãs. Aos 11 anos José Maria passou a trabalhar como ajudante de pedreiro para ajudar nas despesas da família, o que o impediu de terminar os estudos. Aos 20 anos ele começou o seu próprio empreendimento: uma lojinha de móveis fabricados por ele mesmo. A partir daí, o negócio de José Maria cresceu cada vez mais. Hoje ele conta com mais 3 lojinhas localizadas no estado onde nasceu.</string>
+    <string name="ajudante">Experiência com construção civil, acabamento, pintura, encanação e alvenaria.</string>
+    <string name="vendedor">Experiência com vendas de produtos em geral, marketing e entregas</string>
+    <string name="competencias">José Maria possui uma grande facilidade para lidar com clientes e se comunicar de maneira formal. Ele tambem possui facilidade para trabalhar em equipe e possui espirito de empreendedorismo e liderança</string>
+    <string name="fundamental">José Maria estudou até a quarta série do ensino fundamental.</string>
+    <string name="tecnico">José Maria concluiu um curso técnico na área de vendas</string>
+</resources>
